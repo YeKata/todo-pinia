@@ -1,6 +1,8 @@
 # todo-pinia
 
-캡틴판교님의 todo-app을 마이그레이션, 리펙토링 한 프로젝트
+Vue2로 작성한 캡틴판교님의 todo-app을 Vue3로 마이그레이션, 리펙토링 한 프로젝트
+Vue를 학습할 때 Vue2 로 배워서 Vue3 숙련 위해 마이그레이션 진행.
+TypeScript 숙련을 위해 JavaScript로 작성한 코드를 TypeScript로 변경.
 
 ## Project setup
 ```
